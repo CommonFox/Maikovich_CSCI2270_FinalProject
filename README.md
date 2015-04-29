@@ -1,6 +1,20 @@
 # Maikovich_CSCI2270_FinalProject
-Twitter Story of the Day
 
-Project Summary:
+Link to the project: https://github.com/Amerterasu/Le_CSCI2270_FinalProject
 
-The overall idea of the project is to create a user created story through Twitter, using the Twitter API. An introduction to the story will either be given or user controlled, then users will continually add and contribute to the story. Responses will be chosen and then posted so that other users will know where to pick up and submit their new additions. At the end of the set period the finished story will be posted in its entirety.
+Project Description -A program used to calculate important statistics pertaining to weather data. Files can be read in containing weather data in the format: date, day, high temperature, low temperature, amount precipitation, amount snow, and snow depth.
+
+How to Run
+
+Run project in command line or in Codeblock
+Dependencies -uses standard libraries -Weather header file -stream libraries( fstream, sstream)
+
+System Requirements -none
+
+Group Members
+
+Fox Maikovich- Username: CommonFox
+Contributors
+
+N/A
+Open isues/ Bugs
